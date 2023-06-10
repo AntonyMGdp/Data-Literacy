@@ -78,4 +78,4 @@ def analyze_player_data(excel_file):
 
 
 # Example usage
-analyze_player_data('game_info.xlsx')
+analyze_player_data('lichess_tournament_2023-spring-marathon_game_info.xlsx')
